@@ -1,0 +1,54 @@
+com/koiwaLearning/api/mapper/CoursesMapper.java
+ com.koiwaLearning.api.mapper.CoursesMapper
+com/koiwaLearning/api/domain/ScoreDetail.java
+ com.koiwaLearning.api.domain.ScoreDetail
+com/koiwaLearning/api/service/TeachersService.java
+ com.koiwaLearning.api.service.TeachersService
+com/koiwaLearning/SpringBatchApplication.java
+ com.koiwaLearning.SpringBatchApplication
+com/koiwaLearning/api/service/ScoresService.java
+ com.koiwaLearning.api.service.ScoresService
+com/koiwaLearning/api/mapper/TeachersMapper.java
+ com.koiwaLearning.api.mapper.TeachersMapper
+com/koiwaLearning/api/service/QuestionService.java
+ com.koiwaLearning.api.service.QuestionService
+com/koiwaLearning/api/service/CoursesService.java
+ com.koiwaLearning.api.service.CoursesService
+com/koiwaLearning/api/domain/Teachers.java
+ com.koiwaLearning.api.domain.Teachers
+com/koiwaLearning/api/domain/Question11.java
+ com.koiwaLearning.api.domain.Question11
+com/koiwaLearning/api/controller/IndexController.java
+ com.koiwaLearning.api.controller.IndexController
+com/koiwaLearning/api/mapper/QuestionMapper.java
+ com.koiwaLearning.api.mapper.QuestionMapper
+com/koiwaLearning/api/domain/Scores.java
+ com.koiwaLearning.api.domain.Scores
+com/koiwaLearning/api/domain/StudentDetail.java
+ com.koiwaLearning.api.domain.StudentDetail
+com/koiwaLearning/api/domain/TeacherDetail.java
+ com.koiwaLearning.api.domain.TeacherDetail
+com/koiwaLearning/api/domain/Question9.java
+ com.koiwaLearning.api.domain.Question9
+com/koiwaLearning/api/domain/CourseDetail.java
+ com.koiwaLearning.api.domain.CourseDetail
+com/koiwaLearning/api/domain/Courses.java
+ com.koiwaLearning.api.domain.Courses
+com/koiwaLearning/api/controller/ScoresController.java
+ com.koiwaLearning.api.controller.ScoresController
+com/koiwaLearning/api/controller/TeachersController.java
+ com.koiwaLearning.api.controller.TeachersController
+com/koiwaLearning/api/domain/Students.java
+ com.koiwaLearning.api.domain.Students
+com/koiwaLearning/api/mapper/ScoresMapper.java
+ com.koiwaLearning.api.mapper.ScoresMapper
+com/koiwaLearning/api/controller/QuestionController.java
+ com.koiwaLearning.api.controller.QuestionController
+com/koiwaLearning/api/controller/CoursesController.java
+ com.koiwaLearning.api.controller.CoursesController
+com/koiwaLearning/api/service/StudentsService.java
+ com.koiwaLearning.api.service.StudentsService
+com/koiwaLearning/api/mapper/StudentsMapper.java
+ com.koiwaLearning.api.mapper.StudentsMapper
+com/koiwaLearning/api/controller/StudentsController.java
+ com.koiwaLearning.api.controller.StudentsController
